@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeel</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h3 align="center">A passionate Data Science from India.</h3>
 
 - 🔭 I’m currently working on [End-to-End Name entity recognition](https://github.com/RajBusa/entity-hive)
 
