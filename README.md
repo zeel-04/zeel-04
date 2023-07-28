@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [End-to-End Name entity recognition](https://github.com/RajBusa/entity-hive)
 
-- 🌱 I’m currently learning **GCP, Pytorch**
+- 🌱 I’m currently learning **GCP, Pytorch, AutoEncoders**
 
 - 👨‍💻 All of my projects are available at [https://zeel-04.github.io/My-Portfolio/](https://zeel-04.github.io/My-Portfolio/)
 
