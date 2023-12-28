@@ -1,7 +1,7 @@
-Hey there, 👋 Zeel Here,
+Hey there, 👋 Zeel here,
 =====================
 
-Experienced Data Science Expert specializing in deep learning, machine learning, and strong foundation in NLP, along with proven track record of delivering practical solutions, including LLMs and RAG systems.
+An Experienced Data Science Expert specializing in deep learning, machine learning, and strong foundation in NLP, along with proven track record of delivering practical solutions, including LLMs and RAG systems.
 
 *   🚀  Here's [My Portfolio](http://zeelthumar.streamlit.app)
 *   🧠  I'm learning MLOps, LLM Inference Optimization
