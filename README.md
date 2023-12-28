@@ -1,4 +1,4 @@
-Hi 👋 My name is Zeel
+Hey there, 👋 Zeel Here,
 =====================
 
 Experienced Data Science Expert specializing in deep learning, machine learning, and strong foundation in NLP, along with proven track record of delivering practical solutions, including LLMs and RAG systems.
