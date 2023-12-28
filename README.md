@@ -6,7 +6,7 @@ A Data Science Geek
 
 Experienced Data Science Expert specializing in deep learning, machine learning, and strong foundation in NLP, along with proven track record of delivering practical solutions, including LLMs and RAG systems.
 
-*   🚀  I'm currently working on [My Portfolio](http://zeelthumar.streamlit.app)
+*   🚀  Here's [My Portfolio](http://zeelthumar.streamlit.app)
 *   🧠  I'm learning MLOps, LLM Inference Optimization
   
 <a href="https://www.x.com/zeel_thumar" target="_blank" rel="noreferrer"><img
@@ -22,8 +22,6 @@ Experienced Data Science Expert specializing in deep learning, machine learning,
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/zeel-04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zeelthumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/zeel_thumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
 
 <b>Top Repositories</b>
 
