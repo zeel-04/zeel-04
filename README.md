@@ -3,7 +3,7 @@ Hey there, 👋 Zeel here,
 
 An Experienced Data Science Expert specializing in deep learning, machine learning, and strong foundation in NLP, along with proven track record of delivering practical solutions, including LLMs and RAG systems.
 
-*   🚀  Here's [My Website](https://zeelthumar.framer.website)
+*   🚀  Here's [My Website](https://www.zeelthumar.me)
 *   🧠  I'm learning MLOps, LLM Inference Optimization
   
 <a href="https://www.x.com/zeel_thumar" target="_blank" rel="noreferrer"><img
