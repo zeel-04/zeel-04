@@ -1,7 +1,7 @@
 Hey there, 👋 Zeel here,
 =====================
 
-An Experienced Data Science Expert specializing in deep learning, machine learning, and strong foundation in NLP, along with proven track record of delivering practical solutions, including LLMs and RAG systems.
+An Experienced Applied GenAI Expert specializing in RAG, Agents, and Production GenAI System Architecture.
 
 *   🚀  Here's [My Website](https://www.zeelthumar.me)
 *   🧠  I'm learning MLOps, LLM Inference Optimization
