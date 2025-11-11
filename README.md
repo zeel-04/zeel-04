@@ -4,10 +4,7 @@ Hey there, 👋 Zeel here,
 An Experienced Applied GenAI Expert specializing in RAG, Agents, and Production GenAI System Architecture.
 
 *   🚀  Here's [My Website](https://www.zeelthumar.me)
-  
-<a href="https://www.x.com/zeel_thumar" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/zeel_thumar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+*   🔗  Here's [My LinkedIn]([https://www.zeelthumar.me](https://www.linkedin.com/in/zeelthumar/))
 
 ### Skills 
 <p align="left">
