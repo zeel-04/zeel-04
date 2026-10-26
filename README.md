@@ -1,9 +1,10 @@
 Hey there, 👋 Zeel here
 =====================
 
-Applied AI engineer building LLM-based data extraction, agentic systems, and evaluation pipelines that run in production.
+Applied AI engineer building production voice and messaging agents, API-backed browser automation (RPA), and auditable document-extraction pipelines.
 
-*   🔭  Recently: turned messy court filings into structured, source-cited data with a multi-modal extraction pipeline and an agentic analysis module
+*   🛠️  Now: Applied AI Engineer at SJ Enterprise, building a multi-agent system reachable over Telegram and real-time voice calls, plus RPA tools for internal business portals
+*   📄  Before: turned high-volume court filings into structured, source-cited data at Clvrtech
 *   🎓  MS in Computer Science, University of New Haven (2026)
 *   🚀  Here's [My Website](https://www.zeelthumar.me)
 *   🔗  Here's [My LinkedIn](https://www.linkedin.com/in/zeelthumar/)
@@ -11,10 +12,14 @@ Applied AI engineer building LLM-based data extraction, agentic systems, and eva
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,django,fastapi,nextjs,pytorch,postgres,mysql,docker,aws,gcp,githubactions,linux,git" alt="Python, TypeScript, JavaScript, Django, FastAPI, Next.js, PyTorch, PostgreSQL, MySQL, Docker, AWS, GCP, GitHub Actions, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,django,fastapi,nextjs,pytorch,postgres,mysql,docker,aws,gcp,githubactions,selenium,linux,git" alt="Python, TypeScript, JavaScript, Django, FastAPI, Next.js, PyTorch, PostgreSQL, MySQL, Docker, AWS, GCP, GitHub Actions, Selenium, Linux, Git" />
 </p>
 
-**AI & Agents:** LangChain · Transformers · MCP · RAG · LLM-as-judge evals · Pinecone · Qdrant
+**AI & Agents:** LangChain · OpenClaw · MCP · Transformers · Pinecone · Qdrant · LLM-as-judge evals
+
+**Voice & Automation:** Twilio · Gemini Live · ElevenLabs · Playwright · RPA
+
+**Observability:** CloudWatch · Opik · Prometheus · Grafana
 
 ### Socials
 
